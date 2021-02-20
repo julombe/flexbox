@@ -1,6 +1,7 @@
 .container {
     background-color: #ccc;
     height: 200px;
+    display: flex;
 }
 
 .item {
